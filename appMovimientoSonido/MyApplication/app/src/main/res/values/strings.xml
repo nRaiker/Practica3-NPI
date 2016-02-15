@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">appMovimientoSonido</string>
+    <string name="intro">Una vez pulsado el boton comenzar, mover el telefono como se
+    indica en las instrucciones en pantalla</string>
+    <string name="comenzar">comenzar</string>
+
+    <string name="Paso1">En primer lugar coloque el telefono paralelo al suelo
+    con la pantalla mirando al cielo</string>
+
+    <string name="Paso2">Ahora pon el movil de forma vertical, dejandolo perpendicular al
+    suelo</string>
+
+    <string name="Paso3">Ahora coloqe el telefono de forma horizontal,sobre el lado izquierdo,
+        formando un angulo de 90ª grados la pantalla con el suelo</string>
+
+    <string name="Paso4">Por ultimo, coloque el telefono como en el primer paso, pero ahora boca
+    abajo</string>
+
+    <string name="Final">Reconocimiento del gesto terminado</string>
+</resources>

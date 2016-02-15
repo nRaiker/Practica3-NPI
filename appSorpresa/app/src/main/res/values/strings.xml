@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">appSorpresa</string>
+    <string name="info">Esta aplicacion reproduce un archivo multimedia controlando el volumen a traves de la iluminacion de la sala. Cuanto mayor sea la iluminacion mayor será el volumen</string>
+    <string name="comenzar">Pulsa para comenzar</string>
+    <string name="volumen">Volumen:</string>
+</resources>

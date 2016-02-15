@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">appFotoVoz</string>
+    <string name="bt_rcv">Pulsa para hablar</string>
+    <string name="N">norte</string>
+    <string name="S">sur</string>
+    <string name="E">este</string>
+    <string name="W">oeste</string>
+    <string name="Error1"> La segunda palabra debe de ser un numero</string>
+    <string name="Error2">Debe de decir el nombre de un punto cardinal seguido de un numero</string>
+    <string name="Error3">Los puntos cardinales son Norte, Sur, Este y Oeste, diga uno de ellos en primer lugar</string>
+    <string name="Texto">Su frase ha sido: </string>
+    <string name="Info1">Apuntando hacia el</string>
+    <string name="Info2">Con un porcentaje de error de</string>
+    <string name="Flecha">Flecha</string>
+</resources>
